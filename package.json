@@ -1,0 +1,41 @@
+{
+  "name": "date-simplifier",
+  "version": "1.0.0",
+  "description": "This is date calculator package that make how you organize your date easier while managing large scale applications to avoid code repetions!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patriicke/date-simplifier.git"
+  },
+  "keywords": [
+    "Date",
+    "calculator",
+    "that",
+    "shows",
+    "clear",
+    "date",
+    "and",
+    "how",
+    "long",
+    "the",
+    "time",
+    "spent",
+    "from",
+    "one",
+    "start",
+    "time",
+    "to",
+    "one",
+    "end",
+    "time\""
+  ],
+  "author": "Patrick NDAYAMBAJE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patriicke/date-simplifier/issues"
+  },
+  "homepage": "https://github.com/patriicke/date-simplifier#readme"
+}
