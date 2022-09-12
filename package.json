@@ -1,10 +1,9 @@
 {
   "name": "date-simplifier",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "This is date calculator package that make how you organize your date easier while managing large scale applications to avoid code repetions!",
-  "main": "dist/index.js",
+  "main": "lib/index.js",
   "types": "dist/index.d.ts",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepublish": "tsc",
@@ -42,7 +41,9 @@
     "url": "https://github.com/patriicke/date-simplifier/issues"
   },
   "homepage": "https://github.com/patriicke/date-simplifier#readme",
-  "dependencies": {},
+  "dependencies": {
+    "date-simplifier": "^1.0.3"
+  },
   "devDependencies": {
     "typescript": "^2.7.2"
   }
